@@ -2,7 +2,7 @@
 #### Я начинающий фронтенд разработчик и тут собрано большинство моих работ.
 В закреплённых пинах выделены самые интересные (на мой взгляд) проекты.
 
-По поводу сотрудничества обращайтесь по почте cookiepatov@gmail.com или в телеграмм @cookiepatov
+Со мной можно связаться по почте cookiepatov@gmail.com или через Telegram: @cookiepatov
 
 <!---
 cookiepatov/cookiepatov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
